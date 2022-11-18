@@ -1,7 +1,7 @@
-.font_name_about{
+.font_name_about {
     font-style: italic;
 }
 
-p {
-    font-style: italic;
+.background_color {
+    background-color: rgb(237, 236, 235);
 }
