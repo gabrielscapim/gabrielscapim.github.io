@@ -1,1 +1,1 @@
-Exercício de criação de portfolio em HTML
+Exercício de criação de portfolio em HTML e CSS
