@@ -1,23 +1,19 @@
-.font_name_about {
-    font-style: italic;
+*{
+    margin: 10px;
 }
 
 .img_perfil {
-    width: 120px;
-    border-radius: 100%;
-    margin-left: 0%;
+    width: 150px;
     float: left;
-}
-
-.background_color {
-    background-color: rgb(237, 236, 235);
-}
-
-div {
-    display: inline-block;
-    float: left;
+    margin-right: 20px;
     margin-left: 50px;
-    margin-right: 50px;
+    border-radius: 100%;
 }
 
+.name_loc {
 
+}
+
+.about {
+    margin-top: 100px;
+}
